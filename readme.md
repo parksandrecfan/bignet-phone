@@ -5,7 +5,7 @@
 <body>
 
 <h1>BIGNet - Phone Case Iplementation</h1>
-<h2>* [link](https://puhachov.xyz/publications/keypoint-driven-polyvector-flow/)</h2>
+<h2><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></h2>
 <p>Better features by using edge pictures instead of original RGB values, and successfully leading to more accurate results(section 4).</p>
 <p>Better loss function developed that successfully decreases process time(section 4).</p>
 <p>Reducing Anchor points to be learnt (only 4 features (loops)) and successfully decreases process time because if that(section 3).</p>
