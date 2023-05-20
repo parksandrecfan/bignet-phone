@@ -7,7 +7,7 @@
 <h1>BIGNet - Phone Case Iplementation</h1>
 <h4><a href="https://drive.google.com/file/d/1qFROn8uz7wG6HjcUkMC8Rdc0atgCuA22/view?usp=share_link">[Paper]</a></h4>
 
-<p>This page is the implementation of BIGNet in the phone case study. Car case study implementation can be found <a ><here></p>
+<p>This page is the implementation of BIGNet in the phone case study. Car case study implementation can be found <a href="https://github.com/parksandrecfan/bignet-car">here</p>
 
 
 <p>Better loss function developed that successfully decreases process time(section 4).</p>
