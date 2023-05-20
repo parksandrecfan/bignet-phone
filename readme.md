@@ -7,23 +7,8 @@
 <h1>BIGNet - Phone Case Iplementation</h1>
 <h4><a href="https://drive.google.com/file/d/1qFROn8uz7wG6HjcUkMC8Rdc0atgCuA22/view?usp=share_link">[Paper]</a></h4>
 
-<p>Hardware Overview:</p>
+<p>This page is the implementation of BIGNet in the phone case study. Car case study implementation can be found <a ><here></p>
 
- Model Name:	MacBook Pro
-<p>  Model Identifier:	MacBookPro16,1</p>
-<p>  Processor Name:	8-Core Intel Core i9</p>
-<p>  Processor Speed:	2.3 GHz</p>
-<p>  Number of Processors:	1</p>
-<p>  Total Number of Cores:	8</p>
-<p>  L2 Cache (per Core):	256 KB</p>
-<p>  L3 Cache:	16 MB</p>
-<p>  Hyper-Threading Technology:	Enabled</p>
-<p>  Memory:	32 GB</p>
-<p>  System Firmware Version:	1554.140.20.0.0 (iBridge: 18.16.14759.0.1,0)</p>
-<p>  Serial Number (system):	C02DX3ZPMD6T</p>
-<p>  Hardware UUID:	39569474-8523-53CB-B425-BCC731DB1E13</p>
-<p>  Provisioning UDID:	39569474-8523-53CB-B425-BCC731DB1E13</p>
-<p>  Activation Lock Status:	Enabled</p>
 
 <p>Better loss function developed that successfully decreases process time(section 4).</p>
 <p>Reducing Anchor points to be learnt (only 4 features (loops)) and successfully decreases process time because if that(section 3).</p>
