@@ -9,7 +9,7 @@
 
 <p>Hardware Overview:</p>
 
-<p>  Model Name:	MacBook Pro</p>
+ Model Name:	MacBook Pro
 <p>  Model Identifier:	MacBookPro16,1</p>
 <p>  Processor Name:	8-Core Intel Core i9</p>
 <p>  Processor Speed:	2.3 GHz</p>
