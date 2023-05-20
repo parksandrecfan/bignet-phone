@@ -5,7 +5,7 @@
 <body>
 
 <h1>BIGNet - Phone Case Iplementation</h1>
-<h2><a href="https://drive.google.com/file/d/1qFROn8uz7wG6HjcUkMC8Rdc0atgCuA22/view?usp=share_link">[Paper]</a></h2>
+<h4><a href="https://drive.google.com/file/d/1qFROn8uz7wG6HjcUkMC8Rdc0atgCuA22/view?usp=share_link">[Paper]</a></h4>
 <p>Better features by using edge pictures instead of original RGB values, and successfully leading to more accurate results(section 4).</p>
 <p>Better loss function developed that successfully decreases process time(section 4).</p>
 <p>Reducing Anchor points to be learnt (only 4 features (loops)) and successfully decreases process time because if that(section 3).</p>
