@@ -4,19 +4,15 @@
 </head>
 <body>
 
-<h1>BIGNet - Phone Case Iplementation</h1>
+<h1>BIGNet - Phone</h1>
 <h4><a href="https://drive.google.com/file/d/1qFROn8uz7wG6HjcUkMC8Rdc0atgCuA22/view?usp=share_link">[Paper]</a></h4>
 
 <p>This page is the implementation of BIGNet in the phone case study. Car case study implementation can be found <a href="https://github.com/parksandrecfan/bignet-car"><b>here</b>.</p>
+<h2>1. Goal of the project</h2>
+<p>Identifying and codifying brand-related aesthetic features for produc redesign is essential yet challenging, even for humans. This project demonstrates a deep learning, data-driven way to automatically learn brand-related features through SVG-based supervised learning, using brand identification graph neural network (<b>BIGNet</b>), a hierarichal graph neural network.</p>
 
-
-<p>Better loss function developed that successfully decreases process time(section 4).</p>
-<p>Reducing Anchor points to be learnt (only 4 features (loops)) and successfully decreases process time because if that(section 3).</p>
-<p>Reducing the area to scan through to get loss by using speedup buffer (section 6).</p>
-
-<h2>1. Goal of the project: </h2>
-<p>Given A long black and white image that contains R/G/B color pictures, find the right cropping size for each of them. Here is an example:</p>
-<img src="data/figure1.png" width="1000">
+<p>Our approach conducting the phone study can be summarized in this flow chart:</p>
+<img src="data/flowchart.png" width="1000">
 
 <h2>2. Approach </h2>
 
