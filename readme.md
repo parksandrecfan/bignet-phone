@@ -38,7 +38,7 @@
 <p>Instead of generating synthetic data from scratch, one can also directly download the SVG dataset from <a href=https://drive.google.com/file/d/1EHMhK5YhudFL1mEfMslS2hXQ92VLCOcK/view?usp=sharing><b>here</b></a>.</p>
 <p>The SVG data are reprocessed to a BIGNet-friendly format. One can use this function in util to process from SVG data. One can also directly download the pickle format <a href=https://drive.google.com/file/d/1FgSsBIPzOgKaXGAYXavOU56oW8111gu4/view?usp=sharing><b>here</b></a>. Do note that to continue down the pipeline, put the decompressed data in a "pkl" directory.</p>
 <h3>Training</h3>
-<p>Training takes 8 formatted pickle files (train/test data/curve label/brand label/distance matrix).</p>
+<p>Training takes 8 formatted pickle files (train/test data/curve label/brand label/distance matrix) and is performed in "2.training.ipynb". The trained model can also be downloaded <a href=https://drive.google.com/file/d/1pIr0VcdTEiTuR4CmwhmQ4YfnaHrbyEm4/view?usp=share_link><b>here</b></a></p>
 
 <h3>Evaluation</h3>
 <p>Dimension reduction of 2D/3D PCA/tSNE is done in 3.dimension reduction.ipynb.</p>
