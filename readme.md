@@ -15,7 +15,8 @@
 <img src="data/flowchart.png" width="1000">
 
 <h2>System requirements</h2>
-<p>The hardware information can be found in Hardware Overview.txt, and the required (Python) packages can be found in requirements.txt.</p>
+<p>The hardware information can be found in Hardware Overview.txt.</p>
+<p>The required (Python) packages can be found in requirements.txt.</p>
 
 <p>1: Learning parameters: 2 points' coordinates (4 values) that defines the anchor point for blue and green images, to match the red one </p>
 <p>Note that to fix red image's anchor point is to reduce the usage of for loops, and the fact that width and height doesn't have to be learned is because the problem states that all pictures should be the same size.  </p>
