@@ -53,7 +53,7 @@
 <p>* Apple's width and fillet radius -> extrapolation lens1p.ipynb</p>
 <img src="data/Apple Confidence vs lens location.jpg" width="1000">
 <p>* Samsung's gap from screen-frame -> extrapolation samsung scr2pl2edge.ipynb</p>
-<img src="data/Samsung Screen-plane-edge Gap Heatmap.jpg" width="1000">
+<img src="data/Samsung Screen-plane-edge Gap Heatmap.jpg" width="400">
 
 
 <p>For any questions implementing, feel free to email Sean Chen as yuhsuan2@andrew.cmu.edu</p>
