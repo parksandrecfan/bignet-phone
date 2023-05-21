@@ -33,7 +33,7 @@
 <img src="data/samsung1.png" width="1000">
 <img src="data/samsung2.png" width="1000">
 <p>Instead of generating synthetic data from scratch, one can also directly download the SVG dataset from <a href=https://drive.google.com/file/d/1EHMhK5YhudFL1mEfMslS2hXQ92VLCOcK/view?usp=sharing><b>here</b></a>.</p>
-<p>The SVG data are reprocessed to a BIGNet-friendly format. One can use this function in util to process from SVG data. One can also directly download the pickle format <a href=https://drive.google.com/file/d/1FgSsBIPzOgKaXGAYXavOU56oW8111gu4/view?usp=sharing><b>here</b>. Do note that to continue down the pipeline, put the decompressed data in a "pkl" directory.</p>
+<p>The SVG data are reprocessed to a BIGNet-friendly format. One can use this function in util to process from SVG data. One can also directly download the pickle format <a href=https://drive.google.com/file/d/1FgSsBIPzOgKaXGAYXavOU56oW8111gu4/view?usp=sharing><b>here</b></a>. Do note that to continue down the pipeline, put the decompressed data in a "pkl" directory.</p>
 <h3>Training</h3>
 <p>Training takes 8 formatted pickle files (train/test data/curve label/brand label/distance matrix). Train/test accuracy/loss curves are saved as well. The trained model can be downloaded here.</p>
 
