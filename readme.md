@@ -28,7 +28,7 @@
 <h3>iPhone:</h3>
 <img src="data/iphone1.png" width="400">
 <img src="data/iphone2.png" width="700">
-<img src="data/iphone3.png" width="600">
+<img src="data/iphone3.png" width="700">
 <h3>Samsung:</h3>
 <img src="data/samsung1.png" width="1000">
 <img src="data/samsung2.png" width="1000">
