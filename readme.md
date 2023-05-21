@@ -41,9 +41,9 @@
 <p>Training takes 8 formatted pickle files (train/test data/curve label/brand label/distance matrix) and is performed in "2.training.ipynb". The trained model can also be downloaded <a href=https://drive.google.com/file/d/1pIr0VcdTEiTuR4CmwhmQ4YfnaHrbyEm4/view?usp=share_link><b>here</b></a></p>
 
 <h3>Evaluation</h3>
-<p>Dimension reduction of 2D/3D PCA/tSNE is done in 3.dimension reduction.ipynb.</p>
+<p>Dimension reduction of 2D/3D PCA/tSNE is done in "3.dimension reduction.ipynb". The resulted latenttt space plot should look like the following:</p>
 <img src="data/fig5.png" width="1000">
-<p>Leave-one-feature-out is implemented in ablation study.ipynb. You can find the brand-relevant and irrelevant features in the ablation folder. Here are some examples. The partial (1000 samples) set of visualization results can be downloaded <a href="https://drive.google.com/file/d/1PwrxeLgwya7I41y2onD2hgMjsjUyvFD0/view?usp=share_link"><b>here</b></a>.</p>
+<p>Leave-one-feature-out is implemented in "ablation study.ipynb". You can find the brand-relevant and irrelevant features in the ablation folder. Here are some examples. The partial (1000 samples) set of visualization results can be downloaded <a href="https://drive.google.com/file/d/1PwrxeLgwya7I41y2onD2hgMjsjUyvFD0/view?usp=share_link"><b>here</b></a>.</p>
 <img src="data/fig6.png" width="1000">
 <p>From the LOFO result we can summarize the following brand-relevant features.</p>
 <img src="data/lofo summary.png" width="800">
