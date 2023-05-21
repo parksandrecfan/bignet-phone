@@ -8,13 +8,14 @@
 <h4><a href="https://drive.google.com/file/d/1qFROn8uz7wG6HjcUkMC8Rdc0atgCuA22/view?usp=share_link">[Paper]</a></h4>
 
 <p>This page is the implementation of BIGNet in the phone case study. Car case study implementation can be found <a href="https://github.com/parksandrecfan/bignet-car"><b>here</b>.</p>
-<h2>1. Goal of the project</h2>
+<h2>Project summary</h2>
 <p>Identifying and codifying brand-related aesthetic features for produc redesign is essential yet challenging, even for humans. This project demonstrates a deep learning, data-driven way to automatically learn brand-related features through SVG-based supervised learning, using brand identification graph neural network (<b>BIGNet</b>), a hierarichal graph neural network.</p>
 
 <p>Our approach conducting the phone study can be summarized in this flow chart:</p>
 <img src="data/flowchart.png" width="1000">
 
-<h2>2. Approach </h2>
+<h2>System requirements</h2>
+<p>The hardware information can be found in Hardware Overview.txt, and the required (Python) packages can be found in requirements.txt.</p>
 
 <p>1: Learning parameters: 2 points' coordinates (4 values) that defines the anchor point for blue and green images, to match the red one </p>
 <p>Note that to fix red image's anchor point is to reduce the usage of for loops, and the fact that width and height doesn't have to be learned is because the problem states that all pictures should be the same size.  </p>
