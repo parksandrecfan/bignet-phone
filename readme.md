@@ -43,17 +43,17 @@
 <h3>Evaluation</h3>
 <p>Dimension reduction of 2D/3D PCA/tSNE is done in "3.dimension reduction.ipynb". The resulted latenttt space plot should look like the following:</p>
 <img src="data/fig5.png" width="1000">
-<p>Leave-one-feature-out is implemented in "ablation study.ipynb". You can find the brand-relevant and irrelevant features in the ablation folder. Here are some examples. The partial (1000 samples) set of visualization results can be downloaded <a href="https://drive.google.com/file/d/1PwrxeLgwya7I41y2onD2hgMjsjUyvFD0/view?usp=share_link"><b>here</b></a>.</p>
+<p>Leave-one-feature-out is implemented in "4.ablation study.ipynb". You can find the brand-relevant and irrelevant features in the ablation folder. Here are some examples. The partial (1000 samples) set of visualization results can be downloaded <a href="https://drive.google.com/file/d/1PwrxeLgwya7I41y2onD2hgMjsjUyvFD0/view?usp=share_link"><b>here</b></a>.</p>
 <img src="data/fig6.png" width="1000">
 <p>From the LOFO result we can summarize the following brand-relevant features.</p>
 <img src="data/lofo summary.png" width="800">
 <p><b>Parameter exrapolation study</b></p>
 <p>We performed extrapolation 3 following experiments:</p>
-<p>* Apple's lens horizontal location -> extrapolation iphone width.ipynb</p>
+<p>* Apple's lens horizontal location -> "5.extrapolation iphone width.ipynb"</p>
 <img src="data/Apple Phone Confidence vs Width.jpg" width="1000">
-<p>* Apple's width and fillet radius -> extrapolation lens1p.ipynb</p>
+<p>* Apple's width and fillet radius -> "6.extrapolation lens1p.ipynb"</p>
 <img src="data/Apple Confidence vs lens location.jpg" width="1000">
-<p>* Samsung's gap from screen-frame -> extrapolation samsung scr2pl2edge.ipynb</p>
+<p>* Samsung's gap from screen-frame -> "7.extrapolation samsung scr2pl2edge.ipynb"</p>
 <img src="data/Samsung Screen-plane-edge Gap Heatmap.jpg" width="500">
 
 
