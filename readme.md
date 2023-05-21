@@ -43,10 +43,10 @@
 <h3>Evaluation</h3>
 <p>Dimension reduction of 2D/3D PCA/tSNE is done in 3.dimension reduction.ipynb.</p>
 <img src="data/fig5.png" width="1000">
-<p>Leave-one-feature-out is implemented in ablation study.ipynb. You can find the brand-relevant and irrelevant features in the ablation folder. Here are some examples. The full set of visualization results can be downloaded here.</p>
+<p>Leave-one-feature-out is implemented in ablation study.ipynb. You can find the brand-relevant and irrelevant features in the ablation folder. Here are some examples. The partial (1000 samples) set of visualization results can be downloaded <a href="https://drive.google.com/file/d/1PwrxeLgwya7I41y2onD2hgMjsjUyvFD0/view?usp=share_link">here</a>.</p>
 <img src="data/fig6.png" width="1000">
 <p>From the LOFO result we can summarize the following brand-relevant features.</p>
-<img src="data/lofo summary.png" width="1000">
+<img src="data/lofo summary.png" width="800">
 <p><b>Parameter exrapolation study</b></p>
 <p>We performed extrapolation 3 following experiments:</p>
 <p>* Apple's lens horizontal location -> extrapolation iphone width.ipynb</p>
@@ -54,7 +54,7 @@
 <p>* Apple's width and fillet radius -> extrapolation lens1p.ipynb</p>
 <img src="data/Apple Confidence vs lens location.jpg" width="1000">
 <p>* Samsung's gap from screen-frame -> extrapolation samsung scr2pl2edge.ipynb</p>
-<img src="data/Samsung Screen-plane-edge Gap Heatmap.jpg" width="400">
+<img src="data/Samsung Screen-plane-edge Gap Heatmap.jpg" width="500">
 
 
 <p>For any questions implementing, feel free to email Sean Chen as yuhsuan2@andrew.cmu.edu</p>
