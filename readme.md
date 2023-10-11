@@ -17,6 +17,7 @@
 <h2>System requirements</h2>
 <p>This project runs on Macbook Pro.</p>
 <p>More hardware information can be found in <b>Hardware Overview.txt</b>.</p>
+<p>For Windows users, you may experience difficulties installing CairoSVG, and the solutions can be found <a href="https://stackoverflow.com/questions/46265677/get-cairosvg-working-in-windows">here</a></p>
 <p>The required (Python) packages can be found in <b>requirements.txt</b>.</p>
 <p>In addition, <a href="https://potrace.sourceforge.net/"><b>potrace</b></a></b> has to be downloaded to create dataset (step 1).</p>
 
